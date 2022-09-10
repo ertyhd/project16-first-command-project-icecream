@@ -16,7 +16,7 @@
 
 // (() => {
 //     const refs = {
-//     openModalBtn: document.querySelectorAll("click-buy-now"),
+//     openModalBtn: document.querySelectorAll(".click-buy-now"),
 //     closeModalBtn: document.querySelector("[data-modal-close-buy-now]"),
 //     modal: document.querySelector("[data-modal-buy-now]"),
 //     body: document.querySelector('body'),
